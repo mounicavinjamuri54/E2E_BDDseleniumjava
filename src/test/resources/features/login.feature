@@ -1,4 +1,4 @@
-Feature: Login Functionality for Opencart E-commerce Website
+Feature: Login Functionality for Opencart E-commerce Website.
 
   As a user of the opencart website
   I can able to login with my account
